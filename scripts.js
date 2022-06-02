@@ -1,7 +1,9 @@
 // https://www.studytonight.com/post/how-to-build-a-weather-app-using-javascript-for-complete-beginners
 
 // Openweathermap API. Do not share it publicly.
-const api = '3626361813ba5e832bc26311494c7b3d';
+let myKey = config.MY_KEY;
+const api = myKey;
+
 
 
 const iconImg = document.getElementById('weather-icon');
