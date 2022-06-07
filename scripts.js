@@ -1,8 +1,10 @@
 // https://www.studytonight.com/post/how-to-build-a-weather-app-using-javascript-for-complete-beginners
 
 // Openweathermap API. Do not share it publicly.
-let myKey = config.MY_KEY;
-const api = myKey;
+// let myKey = config.MY_KEY;
+// const api = myKey;
+
+const api = '3626361813ba5e832bc26311494c7b3d'
 
 
 
